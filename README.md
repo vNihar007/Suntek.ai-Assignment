@@ -8,8 +8,6 @@
 
 | | |
 |---|---|
-| **Frontend** | _[Add Vercel URL here]_ |
-| **Backend API** | _[Add Railway URL here]_ |
 | **Demo video** | https://www.loom.com/share/9277d49ff1f842c38235ffa8cf03a3bb |
 
 **Test credentials** (optional — or sign up fresh):
