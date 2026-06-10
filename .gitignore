@@ -145,6 +145,11 @@ vite.config.ts.timestamp-*
 .agents/
 .gstack/
 
+# Project-local docs and AI config
+CLAUDE.md
+design-system/
+docs/
+
 
 # AI agents and assistants
 #

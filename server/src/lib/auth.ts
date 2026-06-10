@@ -15,7 +15,13 @@ export const auth = betterAuth({
         enabled : true , 
         minPasswordLength : 8 ,
     },
-    trustedOrigins : [process.env.CLIENT_URL ?? 'http://localhost:5173'],
-    secret : process.env.BETTER_AUTH_SECRET,
+    trustedOrigins : [
+        process.env.CLIENT_URL ?? 'http://localhost:5173',
+        'http://localhost:5173',
+        'http://localhost:5174',
+        'http://127.0.0.1:5173',
+        'http://127.0.0.1:5174',
+    ],
+    secret : process.env.BETTER_AUTH_SECRET!,
     baseURL: process.env.BETTER_AUTH_URL ?? 'http://localhost:3001',
 })
