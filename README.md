@@ -10,7 +10,14 @@
 |---|---|
 | **Frontend** | _[Add Vercel URL here]_ |
 | **Backend API** | _[Add Railway URL here]_ |
-| **Demo video** | _[Add video link here]_ |
+| **Demo video** | <div>
+    <a href="https://www.loom.com/share/9277d49ff1f842c38235ffa8cf03a3bb">
+      <p>Warp - npm - 10 June 2026 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/9277d49ff1f842c38235ffa8cf03a3bb">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9277d49ff1f842c38235ffa8cf03a3bb-42d8ac170376b917-full-play.gif#t=0.1">
+    </a>
+  </div> |
 
 **Test credentials** (optional — or sign up fresh):
 ```
